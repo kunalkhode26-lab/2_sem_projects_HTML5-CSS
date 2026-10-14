@@ -25,7 +25,7 @@ This project helped me improve my HTML and CSS skills while learning how to desi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/hotel-website.git
+git clone https://github.com/kunalkhode26-lab/hotel-website.git
 ```
 
 ### 2. Open the Project Folder
@@ -73,10 +73,12 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-Kunal Khode
+**Kunal Khode**
 
-GitHub: Kunalkhode26-lab
+- GitHub: [@kunalkhode26-lab](https://github.com/kunalkhode26-lab)
+- Project: Hotel Website
+- URL:-hotelradissonblukunalkhode.netlify.app
 
 ## 📄 License
 
-This project is created for educational and learning purposes.
+This project was created for educational and learning purposes.
